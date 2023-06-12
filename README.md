@@ -83,43 +83,43 @@
     2.  horizontalMirror: Devuelve el espejo horizontal de la imagen
     
      <ul>
-	     <li><img src="img/isEmpty.png" alt="image_1" style witdh="150"; height="100"/></li>
+	     <li><img src="horizontalMirror.PNG" alt="image_1" style witdh="150"; height="100"/></li>
 	</ul>
     
     3.  negative: Devuelve un negativo de la imagen
     
      <ul>
-	     <li><img src="img/isEmpty.png" alt="image_1" style witdh="150"; height="100"/></li>
+	     <li><img src="negative.PNG" alt="image_1" style witdh="150"; height="100"/></li>
 	</ul>
     
     4.  join: Devuelve una nueva figura poniendo la figura del argumento al lado derecho de la figura actual
     
      <ul>
-	     <li><img src="img/isEmpty.png" alt="image_1" style witdh="150"; height="100"/></li>
+	     <li><img src="join.PNG" alt="image_1" style witdh="150"; height="100"/></li>
 	</ul>
     
     5.  up: Devuelve una nueva figura poniendo la figura recibida como argumento, encima de la figura actual
     
      <ul>
-	     <li><img src="img/isEmpty.png" alt="image_1" style witdh="150"; height="100"/></li>
+	     <li><img src="up.PNG" alt="image_1" style witdh="150"; height="100"/></li>
 	</ul>
     
     6.  under: Devuelve una nueva figura poniendo la figura recibida como argumento, sobre la figura actual
     
      <ul>
-	     <li><img src="img/isEmpty.png" alt="image_1" style witdh="150"; height="100"/></li>
+	     <li><img src="under.PNG" alt="image_1" style witdh="150"; height="100"/></li>
 	</ul>
     
     7.  horizontalRepeat, Devuelve una nueva figura repitiendo la figura actual al costado la cantidad de veces que indique el valor de n
     
      <ul>
-	     <li><img src="img/isEmpty.png" alt="image_1" style witdh="150"; height="100"/></li>
+	     <li><img src="horizontalRepeat.PNG" alt="image_1" style witdh="150"; height="100"/></li>
 	</ul>
 
     8.  verticalRepeat Devuelve una nueva figura repitiendo la figura actual debajo, la cantidad de veces que indique el valor de n
 
      <ul>
-	     <li><img src="img/isEmpty.png" alt="image_1" style witdh="150"; height="100"/></li>
+	     <li><img src="verticalrepeat.PNG" alt="image_1" style witdh="150"; height="100"/></li>
 	</ul>
 
 
