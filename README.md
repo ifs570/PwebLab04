@@ -132,7 +132,7 @@
 
 
             <ul>
-	     <li><img src="ejercicio2a.PNG" alt="image_1" style witdh="150"; height="100"/></li>
+	     <li><img src="ejercicio2a.PNG" alt="image_1" style witdh="200"; height="150"/></li>
 	    </ul>
 
   
