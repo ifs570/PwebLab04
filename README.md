@@ -129,46 +129,44 @@
 
         1.  Implemente los métodos de la clase Picture. Se recomienda que implemente la clase picture por etapas, probando realizar los dibujos que se muestran en la siguiente preguntas.
         2.  Usando únicamente los métodos de los objetos de la clase Picture dibuje las siguientes figuras (invoque a draw):
-
-
-            <ul>
+           
+	 a.  Ejercicio2a
+	<ul>
 	     <li><img src="ejercicio2a.PNG" alt="image_1" style witdh="200"; height="150"/></li>
 	    </ul>
 
-  
+  	b.  Ejercicio2b
         <ul>
 	     <li><img src="ejercicio2b.PNG" alt="image_1" style witdh="150"; height="100"/></li>
 	    </ul>
 
-
-           
+         c.  Ejercicio2c  
 
         <ul>
 	     <li><img src="ejercicio2c.PNG" alt="image_1" style witdh="150"; height="100"/></li>
 	    </ul>
             
-            
+          d.  Ejercicio2d  
         
 
         <ul>
 	     <li><img src="ejercicio2d.PNG" alt="image_1" style witdh="150"; height="100"/></li>
 	    </ul>
-            
-            
+           e.  Ejercicio2e 
          
 
         <ul>
 	     <li><img src="ejercicio2e.PNG" alt="image_1" style witdh="150"; height="100"/></li>
 	    </ul>
             
-            
+            f.  Ejercicio2f
            
 
         <ul>
 	     <li><img src="ejercicio2f.PNG" alt="image_1" style witdh="150"; height="100"/></li>
 	    </ul>
             
-            
+            g.  Ejercicio2g
           
 
         <ul>
