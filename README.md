@@ -156,7 +156,7 @@
          
 
     <ul>
-	    <li><img src="ejercicio2e.PNG" alt="image_1" style witdh="500"; height="1"/></li>
+	    <li><img src="ejercicio2e.PNG" alt="image_1" style witdh="500"; height=""/></li>
 	    </ul>
             
     f.  Ejercicio2f
