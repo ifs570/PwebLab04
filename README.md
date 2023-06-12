@@ -130,50 +130,49 @@
         1.  Implemente los métodos de la clase Picture. Se recomienda que implemente la clase picture por etapas, probando realizar los dibujos que se muestran en la siguiente preguntas.
         2.  Usando únicamente los métodos de los objetos de la clase Picture dibuje las siguientes figuras (invoque a draw):
 
-            *    (a) ![(a)](imagenes/ejercicio_02_a.png)
 
             <ul>
-	     <li><img src="img/isEmpty.png" alt="image_1" style witdh="150"; height="100"/></li>
+	     <li><img src="ejercicio2a.PNG" alt="image_1" style witdh="150"; height="100"/></li>
 	    </ul>
 
-            *    (b) ![(b)](imagenes/ejercicio_02_b.png)
+  
         <ul>
-	     <li><img src="img/isEmpty.png" alt="image_1" style witdh="150"; height="100"/></li>
+	     <li><img src="ejercicio2b.PNG" alt="image_1" style witdh="150"; height="100"/></li>
 	    </ul>
 
 
-            *    (c) ![(c)](imagenes/ejercicio_02_c.png)
+           
 
         <ul>
-	     <li><img src="img/isEmpty.png" alt="image_1" style witdh="150"; height="100"/></li>
-	    </ul>
-            
-            
-            *    (d) ![(d)](imagenes/ejercicio_02_d.png)
-
-        <ul>
-	     <li><img src="img/isEmpty.png" alt="image_1" style witdh="150"; height="100"/></li>
+	     <li><img src="ejercicio2c.PNG" alt="image_1" style witdh="150"; height="100"/></li>
 	    </ul>
             
             
-            *    (e) ![(e)](imagenes/ejercicio_02_e.png)
+        
 
         <ul>
-	     <li><img src="img/isEmpty.png" alt="image_1" style witdh="150"; height="100"/></li>
+	     <li><img src="ejercicio2d.PNG" alt="image_1" style witdh="150"; height="100"/></li>
 	    </ul>
             
             
-            *    (f) ![(f)](imagenes/ejercicio_02_f.png)
+         
 
         <ul>
-	     <li><img src="img/isEmpty.png" alt="image_1" style witdh="150"; height="100"/></li>
+	     <li><img src="ejercicio2e.PNG" alt="image_1" style witdh="150"; height="100"/></li>
 	    </ul>
             
             
-            *    (g) ![(g)](imagenes/ejercicio_02_g.png)
+           
 
         <ul>
-	     <li><img src="img/isEmpty.png" alt="image_1" style witdh="150"; height="100"/></li>
+	     <li><img src="ejercicio2f.PNG" alt="image_1" style witdh="150"; height="100"/></li>
+	    </ul>
+            
+            
+          
+
+        <ul>
+	     <li><img src="ejercicio2g.PNG" alt="image_1" style witdh="150"; height="100"/></li>
 	    </ul>
 #
 
