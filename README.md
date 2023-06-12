@@ -132,45 +132,45 @@
            
 	 a.  Ejercicio2a
 	<ul>
-	     <li><img src="ejercicio2a.PNG" alt="image_1" style witdh="200"; height="150"/></li>
+	     <li><img src="ejercicio2a.PNG" alt="image_1" style witdh="500"; height=""/></li>
 	    </ul>
 
   	b.  Ejercicio2b
-        <ul>
-	     <li><img src="ejercicio2b.PNG" alt="image_1" style witdh="150"; height="100"/></li>
+    <ul>
+	     <li><img src="ejercicio2b.PNG" alt="image_1" style witdh="500"; height=""/></li>
 	    </ul>
 
-         c.  Ejercicio2c  
+    c.  Ejercicio2c  
 
-        <ul>
-	     <li><img src="ejercicio2c.PNG" alt="image_1" style witdh="150"; height="100"/></li>
+    <ul>
+	     <li><img src="ejercicio2c.PNG" alt="image_1" style witdh="500"; height=""/></li>
 	    </ul>
             
-          d.  Ejercicio2d  
+    d.  Ejercicio2d  
         
 
-        <ul>
-	     <li><img src="ejercicio2d.PNG" alt="image_1" style witdh="150"; height="100"/></li>
+    <ul>
+	     <li><img src="ejercicio2d.PNG" alt="image_1" style witdh="500"; height=""/></li>
 	    </ul>
-           e.  Ejercicio2e 
+    e.  Ejercicio2e 
          
 
-        <ul>
-	     <li><img src="ejercicio2e.PNG" alt="image_1" style witdh="150"; height="100"/></li>
+    <ul>
+	    <li><img src="ejercicio2e.PNG" alt="image_1" style witdh="500"; height="1"/></li>
 	    </ul>
             
-            f.  Ejercicio2f
+    f.  Ejercicio2f
            
 
-        <ul>
-	     <li><img src="ejercicio2f.PNG" alt="image_1" style witdh="150"; height="100"/></li>
+    <ul>
+	     <li><img src="ejercicio2f.PNG" alt="image_1" style witdh="500"; height=""/></li>
 	    </ul>
             
-            g.  Ejercicio2g
+    g.  Ejercicio2g
           
 
-        <ul>
-	     <li><img src="ejercicio2g.PNG" alt="image_1" style witdh="150"; height="100"/></li>
+    <ul>
+	     <li><img src="ejercicio2g.PNG" alt="image_1" style witdh="500"; height=""/></li>
 	    </ul>
 #
 
