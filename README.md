@@ -77,7 +77,7 @@
     1.  verticalMirror: Devuelve el espejo vertical de la imagen
 
      <ul>
-	     <li><img src="" alt="image_1" style witdh="150"; height="100"/></li>
+	     <li><img src="main/verticalMirror.PNG" alt="image_1" style witdh="150"; height="100"/></li>
 	</ul>
 
     2.  horizontalMirror: Devuelve el espejo horizontal de la imagen
